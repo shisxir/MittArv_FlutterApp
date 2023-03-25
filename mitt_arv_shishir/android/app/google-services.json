@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659097464036",
+    "project_id": "mitt-arv-shishir",
+    "storage_bucket": "mitt-arv-shishir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659097464036:android:a0ad10a4c6b5ab6927d0f1",
+        "android_client_info": {
+          "package_name": "com.mittarv.mitt_arv_shishir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659097464036-fum8cgmsueht0mgodpcnt4jfto72r7e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yb4Ek56dID-AlXhYUSScWEapyLUrF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659097464036-fum8cgmsueht0mgodpcnt4jfto72r7e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
