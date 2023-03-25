@@ -2,9 +2,8 @@
 
 A new Flutter project.
 
-All Main files are in /mitt_arv_shishir/ , and after .zip download
-you may rename folder to Mitt_Arv_Shishir and then add to your IDE Projects
-folder.
+After .zip download, open the mitt_arv_shishir folder into your IDE
+and build, to run the app :)
 
 ## Getting Started
 
