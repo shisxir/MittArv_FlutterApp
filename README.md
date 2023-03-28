@@ -1,6 +1,7 @@
-# mitt_arv_shishir
+# Minimalist Profile App 
 
-A new Flutter project.
+A profile application built using flutter portraying a user friendly UI, made for Mitt Arv.
+
 
 After .zip download, open the mitt_arv_shishir folder into your IDE
 and build, to run the app :)
